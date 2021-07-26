@@ -1,6 +1,4 @@
-# b
-
-<h1 align="center">ackground-color-flipper by Hernan Singh</h1>
+<h1 align="center">Background-color-flipper by Hernan Singh</h1>
 
 <div align="center">
    a project from  <a href="http://freecodecamp.org" target="_blank">freeCodeCamp.org</a>.
