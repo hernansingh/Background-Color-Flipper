@@ -1,21 +1,21 @@
-<h1 align="center">Background-color-flipper by Hernan Singh</h1>
+<h1 align="center">Background-Color-Flipper by Hernán Singh</h1>
 
 <div align="center">
-   a project from  <a href="http://freecodecamp.org" target="_blank">freeCodeCamp.org</a>.
+   a project from <a href="http://freecodecamp.org" target="_blank">freeCodeCamp.org</a>.
 </div>
 
 <div align="center">
   <h3>
-    <a href="https://hernansingh.github.io/404-page-not-found/">
+    <a href="https://hernansingh.github.io/background-color-flipper/">
       Result
     </a>
     <span> | </span>
-    <a href="https://www.figma.com/file/QeKWLNhB13zDjJzqR22TKE/404-page-challenge?node-id=0%3A1">
-      Design
+    <a href="https://vannilla-js-basic-project-1-background-color.netlify.app/">
+      Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">
-      Challenge
+    <a href="https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s">
+      Tutorial
     </a>
   </h3>
 </div>
@@ -33,7 +33,7 @@
 
 ## Overview
 
-A vanilla javascript basic project - from freeCodeCamp (https://www.vanillajavascriptprojects.com)
+A vanilla javascript basic project - from freeCodeCamp ()
 
 ## Features
 
