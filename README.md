@@ -26,18 +26,13 @@
 
 - [Overview](#overview)
 - [Built With](#built-with)
-- [Features](#features)
 - [Contact](#contact)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-A vanilla javascript basic project - from freeCodeCamp ()
-
-## Features
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+A vanilla javascript basic project from freeCodeCamp ()
 
 ## Contact
 
